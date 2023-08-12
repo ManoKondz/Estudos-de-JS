@@ -8,7 +8,7 @@
         == -> Compara apenas o Valor da Variável(Se igual retorna true)
         != -> Compara a variável(Se igual retorna false)
 */
-/*
+
 let num=5, num2=10;
 
 console.log(num>num2); // Espera-se False
@@ -33,7 +33,7 @@ let numstr="11"
 console.log(num2===numstr); // Espera-se False
 console.log(num2==numstr);  // Espera-se True
 console.log(num2!=numstr);  // Espera-se False
-/*
+
 // Aula 7
 
 /*
